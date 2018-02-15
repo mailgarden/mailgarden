@@ -3,39 +3,12 @@
     <title>mailgarden</title>
     <link href="https://mailgarden.github.io/feed.xml" rel="self" />
     <link href="https://mailgarden.github.io" />
-    <updated>2018-02-15T20:55:19+07:00</updated>
+    <updated>2018-02-15T20:58:58+07:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://mailgarden.github.io</id>
 
-    <entry>
-        <title>Konsultasi dan Perawatan</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://mailgarden.github.io/konsultasi-dan-perawatan.html"/>
-        <id>https://mailgarden.github.io/konsultasi-dan-perawatan.html</id>
-            <category term="services"/>
-
-        <updated>2018-02-15T20:53:52+07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Jasa Pembuatan Kolam</title>
-        <author>
-            <name>admin</name>
-        </author>
-        <link href="https://mailgarden.github.io/jasa-pembuatan-kolam.html"/>
-        <id>https://mailgarden.github.io/jasa-pembuatan-kolam.html</id>
-            <category term="relief"/>
-            <category term="kolam"/>
-
-        <updated>2018-02-15T20:53:22+07:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Jasa Pembuatan Taman</title>
         <author>
@@ -45,7 +18,7 @@
         <id>https://mailgarden.github.io/jasa-pembuatan-taman.html</id>
             <category term="taman"/>
 
-        <updated>2018-02-15T20:55:02+07:00</updated>
+        <updated>2018-02-15T20:57:39+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
