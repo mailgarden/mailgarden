@@ -11,32 +11,6 @@
     },
     "items": [
         {
-            "id": "https://mailgarden.github.io/tanaman-hias.html",
-            "url": "https://mailgarden.github.io/tanaman-hias.html",
-            "title": "Tanaman Hias",
-            "content_html": "Selain menyediakan jasa pembuatan taman dan kolam minimalis maupun relief, Kami juga meyediakan produk tanaman hias yang dapat di tanam di taman yang sudah anda miliki atau sekedar di tanam di pekarangan anda.",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-02-24T04:46:59+07:00",
-            "date_modified": "2018-02-24T04:46:59+07:00"
-        },
-        {
-            "id": "https://mailgarden.github.io/pohon-buah.html",
-            "url": "https://mailgarden.github.io/pohon-buah.html",
-            "title": "Pohon Buah",
-            "content_html": "<p>Kami juga menyediakan aneka pohon buah yang selain dapat membuat rumah anda lebih rindang dan nyaman, buahnya juga dapat dinikmati oleh anda dan kerabat anda.</p>\n<p>Berikut adalah contoh pohon buah yang dapat anda pesan di Mail Garden. Pilihan lainnya tersedia, anda dapat memesan pohon buah lainnya yang tidak terdapat di galeri photo di bawah ini.</p>",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-02-24T04:44:36+07:00",
-            "date_modified": "2018-02-24T04:44:36+07:00"
-        },
-        {
             "id": "https://mailgarden.github.io/jasa-pembuatan-taman.html",
             "url": "https://mailgarden.github.io/jasa-pembuatan-taman.html",
             "title": "Pembuatan Taman",
