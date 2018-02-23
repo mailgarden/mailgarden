@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>mailgarden</title>
+    <title>mail-garden</title>
     <link href="https://mailgarden.github.io/feed.xml" rel="self" />
     <link href="https://mailgarden.github.io" />
-    <updated>2018-02-24T04:53:34+07:00</updated>
+    <updated>2018-02-24T05:11:23+07:00</updated>
     <author>
         <name>admin</name>
     </author>

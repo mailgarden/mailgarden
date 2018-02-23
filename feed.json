@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "mailgarden",
+    "title": "mail-garden",
     "description": "",
     "home_page_url": "https://mailgarden.github.io",
     "feed_url": "https://mailgarden.github.io/feed.json",
